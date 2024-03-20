@@ -1,0 +1,25 @@
+C:\Users\user\Desktop\10-M\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Sipariş Uygulaması.exe.config
+C:\Users\user\Desktop\10-M\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Sipariş Uygulaması.exe
+C:\Users\user\Desktop\10-M\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Sipariş Uygulaması.pdb
+C:\Users\user\Desktop\10-M\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş_Uygulaması.Form1.resources
+C:\Users\user\Desktop\10-M\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş_Uygulaması.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\10-M\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.exe
+C:\Users\user\Desktop\10-M\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.pdb
+E:\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Sipariş Uygulaması.exe.config
+E:\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.exe
+E:\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.pdb
+E:\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.csprojResolveAssemblyReference.cache
+E:\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş_Uygulaması.Form1.resources
+E:\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş_Uygulaması.Properties.Resources.resources
+E:\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.csproj.GenerateResource.Cache
+J:\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Sipariş Uygulaması.exe.config
+J:\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.exe
+J:\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.pdb
+J:\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Sipariş Uygulaması.exe
+J:\Sipariş Uygulaması\Sipariş Uygulaması\bin\Debug\Sipariş Uygulaması.pdb
+J:\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.csprojResolveAssemblyReference.cache
+J:\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş_Uygulaması.Form1.resources
+J:\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş_Uygulaması.Properties.Resources.resources
+J:\Sipariş Uygulaması\Sipariş Uygulaması\obj\Debug\Sipariş Uygulaması.csproj.GenerateResource.Cache
